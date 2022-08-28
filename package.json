@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "stopword": "^2.0.2",
+    "words-n-numbers": "^7.1.1"
+  }
+}
